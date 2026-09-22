@@ -1,11 +1,8 @@
-# Dataset (large, downloaded separately from Kaggle)
+# Dataset (large, downloaded separately from Kaggle — not included in repo)
 elliptic_bitcoin_dataset/
-*.csv
 
-# Generated outputs
-results/
-*.png
-*.log
+# Note: results/ (figures, tables, CSVs) is intentionally tracked, not ignored,
+# so results are viewable on GitHub without re-running the notebook.
 
 # Jupyter
 .ipynb_checkpoints/
