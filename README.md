@@ -40,7 +40,7 @@ Fraud detection models trained once and deployed statically collapse when transa
 .
 ├── notebooks/
 │   └── elliptic_drift_adaptation.ipynb   # Full experimental pipeline (upload this)
-├── results/                              # Generated on run: figures, tables, CSVs
+├── results/                              # Figures, tables, CSVs (tracked in repo for reference)
 │   ├── drift_detectors/
 │   ├── retraining/
 │   ├── statistics/
